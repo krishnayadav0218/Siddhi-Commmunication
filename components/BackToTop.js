@@ -1,0 +1,29 @@
+import { useEffect, useState } from 'react';
+
+export default function BackToTop() {
+  const [visible, setVisible] = useState(false);
+
+  useEffect(() => {
+    function onScroll() {
+      setVisible(window.scrollY > 700);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
+
+  function handleClick() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  return (
+    <button
+      className={`back-to-top${visible ? ' visible' : ''}`}
+      onClick={handleClick}
+      aria-label="Back to top"
+      type="button"
+    >
+      ↑
+    </button>
+  );
+}
