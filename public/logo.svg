@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 120" width="440" height="120">
+  <defs>
+    <linearGradient id="badgeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#159ba0"/>
+      <stop offset="1" stop-color="#f2a324"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon badge -->
+  <rect x="10" y="10" width="100" height="100" rx="26" fill="url(#badgeGrad)"/>
+  <rect x="42" y="28" width="36" height="64" rx="10" fill="none" stroke="#ffffff" stroke-width="6.5"/>
+  <circle cx="60" cy="79" r="4" fill="#ffffff"/>
+  <path d="M85 45a26 26 0 0 1 0 40" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.85" fill="none"/>
+  <path d="M96 34a42 42 0 0 1 0 62" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.5" fill="none"/>
+
+  <!-- Wordmark -->
+  <text x="132" y="63" font-family="Rajdhani, Arial, sans-serif" font-weight="700" font-size="40" letter-spacing="0.5" fill="#0e1218">Siddhi</text>
+  <text x="132" y="90" font-family="Arial, sans-serif" font-weight="600" font-size="17" letter-spacing="2.5" fill="#159ba0">COMMUNICATION</text>
+</svg>
