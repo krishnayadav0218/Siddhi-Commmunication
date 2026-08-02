@@ -1,0 +1,166 @@
+{
+  "brand": "Siddhi Communication",
+  "announcement": {
+    "enabled": true,
+    "text": "🎉 New TWS earbuds & fast-charging power banks now in stock — visit today!"
+  },
+  "flashSale": {
+    "enabled": false,
+    "title": "Monsoon Mega Sale",
+    "desc": "Flat 20% off on all tempered glass & charging cables",
+    "endsAt": "2026-08-15T23:59:59+05:30"
+  },
+  "hero": {
+    "eyebrow": "Khojwa Bazar · Varanasi",
+    "heroImage": "",
+    "flipWords": [
+      "Tempered Glass",
+      "TWS Earbuds",
+      "IRCTC Booking",
+      "AEPS Cash Withdrawal",
+      "30-Min Screen Repair",
+      "Bus & Flight Tickets"
+    ],
+    "headlinePrefix": "Your One-Stop",
+    "headlineAccent": "Digital & Mobile",
+    "headlineSuffix": "Solutions Hub in Khojwa Bazar, Varanasi",
+    "subheadline": "From premium mobile accessories & high-speed repairing to all-India ticket bookings and online government services — everything under one roof.",
+    "ctaPrimaryText": "Explore Products →",
+    "ctaPrimaryHref": "#accessories",
+    "ctaSecondaryText": "🎫 Book Tickets Now",
+    "ctaSecondaryHref": "#services",
+    "ctaWhatsappText": "WhatsApp Us"
+  },
+  "stats": [
+    { "count": 10, "suffix": "+", "label": "Services Offered" },
+    { "count": 30, "suffix": " Min", "label": "Express Repair" },
+    { "count": 7, "suffix": "", "label": "Top Brands Supported" }
+  ],
+  "brands": ["Airtel", "VI", "Jio", "Samsung", "Vivo", "Oppo", "Realme"],
+  "services": [
+    {
+      "icon": "💳",
+      "title": "AEPS / Aadhaar ATM",
+      "desc": "Cash withdrawal & money transfer using your Aadhaar-linked bank account.",
+      "highlight": true,
+      "badge": "Most Requested"
+    },
+    { "icon": "🚌", "title": "Bus Ticket Booking", "desc": "All-India routes, instant confirmation.", "highlight": false, "badge": "" },
+    { "icon": "🚆", "title": "Railway (IRCTC)", "desc": "Tatkal & general reservation support.", "highlight": false, "badge": "" },
+    { "icon": "🏨", "title": "Hotel Booking", "desc": "Verified stays across every budget.", "highlight": false, "badge": "" },
+    { "icon": "🚕", "title": "Car & Taxi Booking", "desc": "Local & outstation cab reservations.", "highlight": false, "badge": "" },
+    { "icon": "✈️", "title": "Flight Ticket Booking", "desc": "Domestic & international fares.", "highlight": false, "badge": "" },
+    { "icon": "📝", "title": "Govt & Cyber Services", "desc": "Form filling, applications & online submissions handled for you.", "highlight": false, "badge": "" },
+    { "icon": "📶", "title": "Recharge & Bill Payment", "desc": "Prepaid/postpaid mobile recharge, DTH and electricity bill payment.", "highlight": false, "badge": "" },
+    { "icon": "📇", "title": "New SIM & Number Port", "desc": "New SIM activation and MNP (number port) assistance, all networks.", "highlight": false, "badge": "" },
+    { "icon": "🔄", "title": "Buy / Sell Old Mobile", "desc": "Fair valuation for your old phone with instant exchange support.", "highlight": false, "badge": "" }
+  ],
+  "productCategories": [
+    {
+      "key": "protective",
+      "label": "Protective Gear",
+      "items": [
+        { "icon": "📱", "name": "Silicone Back Covers", "priceFrom": "₹149" },
+        { "icon": "🛡️", "name": "Tempered Glass", "priceFrom": "₹99" },
+        { "icon": "🌫️", "name": "Matte Glass Protector", "priceFrom": "₹149" },
+        { "icon": "🔆", "name": "UV Glass Protector", "priceFrom": "₹299" },
+        { "icon": "🧴", "name": "Membrane Protectors", "priceFrom": "₹79" },
+        { "icon": "🔧", "name": "Back Glass Replacement", "priceFrom": "₹499" }
+      ]
+    },
+    {
+      "key": "audio",
+      "label": "Audio & Sound",
+      "items": [
+        { "icon": "🎧", "name": "Earphones", "priceFrom": "₹149" },
+        { "icon": "🎵", "name": "Headphones", "priceFrom": "₹399" },
+        { "icon": "🎙️", "name": "Neckbands", "priceFrom": "₹349" },
+        { "icon": "🎶", "name": "Earbuds (TWS)", "priceFrom": "₹599" }
+      ]
+    },
+    {
+      "key": "cables",
+      "label": "Chargers & Power Banks",
+      "items": [
+        { "icon": "🔌", "name": "V8 Micro USB Cable", "priceFrom": "₹99" },
+        { "icon": "⚡", "name": "Type-C Cable", "priceFrom": "₹129" },
+        { "icon": "🚀", "name": "C-to-C Fast Charging Cable", "priceFrom": "₹199" },
+        { "icon": "🧱", "name": "Wall Charger Adapter", "priceFrom": "₹249" },
+        { "icon": "🔋", "name": "Power Bank", "priceFrom": "₹699" },
+        { "icon": "🚗", "name": "Car Charger", "priceFrom": "₹199" }
+      ]
+    }
+  ],
+  "gallery": [],
+  "repairFeatures": [
+    { "title": "Instant Screen Replacement", "desc": "Original-quality displays fitted while you wait." },
+    { "title": "Motherboard Repair", "desc": "Micro-soldering & chip-level fault diagnosis." },
+    { "title": "Software Flashing & Unlocking", "desc": "OS reflash, FRP removal, pattern/password unlock." },
+    { "title": "Paper Lamination", "desc": "ID cards, certificates & documents laminated on the spot." },
+    { "title": "Photostat — B/W & Color", "desc": "Quick printing and photocopy service." }
+  ],
+  "repairStatus": {
+    "pillText": "LIVE — COUNTER OPEN",
+    "title": "Express Repairing",
+    "desc": "Fast 30-minute express repairing available for most screen & battery jobs.",
+    "warranty": "7-Day Service Warranty on all repairs"
+  },
+  "contact": {
+    "owner": "Pro. Akash Jaiswal",
+    "phone1": "9519088325",
+    "phone2": "8423669536",
+    "address": "Khojwa Bazar, Varanasi, Uttar Pradesh",
+    "pincodeLine": "Khojwa Bazar, Varanasi — 221010",
+    "hours": "Mon – Sun · 9:00 AM – 9:30 PM",
+    "hoursWeekday": "Mon – Sat: 9:00 AM – 9:30 PM",
+    "hoursSunday": "Sunday: 10:00 AM – 8:00 PM",
+    "openTime": "09:00",
+    "closeTime": "21:30",
+    "mapsQuery": "Khojwa Bazar Varanasi",
+    "googleRating": "4.8",
+    "googleReviewCount": "120+",
+    "googleReviewUrl": "https://www.google.com/maps/search/?api=1&query=Khojwa%20Bazar%20Varanasi"
+  },
+  "testimonials": [
+    {
+      "name": "Rohit Verma",
+      "location": "Khojwa, Varanasi",
+      "rating": 5,
+      "text": "Screen replace karwaya sirf 25 minute mein, bahut professional service aur genuine parts."
+    },
+    {
+      "name": "Priya Singh",
+      "location": "Sigra, Varanasi",
+      "rating": 5,
+      "text": "AEPS se paise nikalna itna easy ho gaya, ghar ke paas hi sab kaam ho jata hai ab."
+    },
+    {
+      "name": "Manoj Gupta",
+      "location": "Khojwa Bazar",
+      "rating": 4,
+      "text": "Tempered glass aur cover dono genuine quality ke mile, price bhi sahi tha counter se."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kya aap Tatkal railway tickets bhi book karte ho?",
+      "a": "Haan, hum IRCTC ke through Tatkal aur general dono tarah ki railway ticket booking karte hain."
+    },
+    {
+      "q": "Screen repair mein kitna time lagta hai?",
+      "a": "Zyada tar models ke liye humara Express Repair sirf 30 minute mein ho jata hai."
+    },
+    {
+      "q": "AEPS se ek din mein kitna paisa nikal sakte hain?",
+      "a": "Withdrawal limit bank aur RBI guidelines ke hisaab se hoti hai — counter par current limit turant confirm kar denge."
+    },
+    {
+      "q": "Kya aap purane phone ka data recover karte ho?",
+      "a": "Software issues aur kai hardware cases mein data recovery attempt karte hain — phone dikhane par exact estimate denge."
+    }
+  ],
+  "footer": {
+    "tagline": "Your one-stop mobile accessories, repairing and ticketing counter in Khojwa Bazar, Varanasi.",
+    "copyright": "© 2026 Siddhi Communication. All rights reserved."
+  }
+}
